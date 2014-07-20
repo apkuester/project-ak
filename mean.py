@@ -1,3 +1,4 @@
+#made on 7/20/2014 
 #print the mean of the numbers given in a file
 import sys #library sys
 sum = 0
