@@ -9,3 +9,4 @@ for num in open('data.txt'): #open each file and look at each line in the file
 	n += 1 #add a number to each number
 	
 print sum/n #print the end sum divided by the n
+#Very nice code, well done...:)
